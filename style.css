@@ -1,0 +1,28 @@
+#foot {
+bottom: 0%;
+width: 100%;
+position: fixed ;
+
+
+
+}
+
+#bod {
+
+    background-position: center;
+background-size: cover;
+
+}
+
+#he {
+
+margin-top: 0;
+width: 100%;
+}
+
+canvas {
+
+
+    margin-top: 100px;
+    border-radius:40px ;
+}
